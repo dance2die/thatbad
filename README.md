@@ -25,9 +25,9 @@ https://www.reddit.com/r/javascript/comments/bjvrex/npm_isnt_all_that_great/
 ```javascript
 // browser
 import thatbad from 'thatbad'
-thatbad() // Prints `NPM isn't that bad`
+thatbad() // Prints `NPM isn't all that bad`
 
 // node
 const thatbad = require('./thatbad')
-thatbad() // Prints `NPM isn't that bad`
+thatbad() // Prints `NPM isn't all that bad`
 ```
