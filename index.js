@@ -9,5 +9,5 @@
     root.returnExports = factory
   }
 })('thatbad', function() {
-  console.log(`NPM isn't that bad`)
+  console.log(`NPM isn't all that bad`)
 })
