@@ -1,6 +1,6 @@
 {
   "name": "thatbad",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This module is a joke, as well just like 'thatgreat' library.",
   "main": "index.js",
   "scripts": {
